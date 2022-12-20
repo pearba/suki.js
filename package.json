@@ -1,0 +1,23 @@
+{
+  "name": "@pearba/suki.js",
+  "version": "1.0.1924",
+  "description": "It is an application webserver on HTTP.",
+  "main": "suki.js",
+  "types": "types",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pearba/suki.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "pearba",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/pearba/suki/issues"
+  },
+  "homepage": "https://github.com/pearba/suki#readme"
+}
