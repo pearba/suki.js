@@ -1,6 +1,6 @@
 {
   "name": "@pearba/suki.js",
-  "version": "1.0.22212",
+  "version": "1.0.22213",
   "description": "A HTTP application server. ~2.0.0 for stable and ~1.0.0 for lastest",
   "main": "suki.js",
   "types": "types",
