@@ -1,8 +1,9 @@
 {
   "name": "@pearba/suki.js",
-  "version": "1.0.22219",
+  "version": "2.0.23219",
   "description": "A HTTP application server. ~2.0.0 for stable and ~1.0.0 for lastest",
   "main": "suki.js",
+  "engines": { "node": ">=0.4" },
   "types": "types",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
