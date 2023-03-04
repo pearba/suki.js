@@ -14,3 +14,7 @@ https://github.com/sidorares/nodejs-mysql-native/blob/master/LICENSE
 ### less.js by Alexis Sellier & The Core Less Team
 License: Apache License 2.0
 https://github.com/less/less.js/blob/master/LICENSE
+
+### SJCL by Emily Stark, Mike Hamburg and Dan Boneh at Stanford University
+License: BSD
+https://github.com/bitwiseshiftleft/sjcl/blob/master/LICENSE.txt
