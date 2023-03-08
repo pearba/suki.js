@@ -1,7 +1,7 @@
 # suki.js
 It is a javascript app webserver.
 
-Still many doc works to do but no one use it at the moment except me :)
+The doc is being working at.
 
 ## License
 
