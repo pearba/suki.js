@@ -1,7 +1,7 @@
 # suki.js
-It is a javascript app webserver.
+A javascript app webserver, supports nodejs/deno/bun.
 
-The doc is being working at.
+No docs for now.
 
 ## License
 
