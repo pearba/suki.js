@@ -1,5 +1,5 @@
 # suki.js
-Suki.js NPM pkg for Node, Deno & Bun.
+Suki.js NPM pkg (@pearba/suki.js) for Node, Deno & Bun.
 
 No docs for now.
 
