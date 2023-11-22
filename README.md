@@ -1,5 +1,5 @@
 # suki.js
-A javascript app webserver, supports nodejs/deno/bun.
+Suki.js NPM pkg for Node, Deno & Bun.
 
 No docs for now.
 
