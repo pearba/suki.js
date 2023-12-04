@@ -1,6 +1,6 @@
 {
   "name": "@pearba/suki.js",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "A HTTP application server.",
   "main": "suki.js",
   "engines": { "node": ">=16.13" },
