@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pearba/suki.js"
+    "url": "git+https://github.com/pearba/suki.js.git"
   },
   "keywords": [
     "server"
